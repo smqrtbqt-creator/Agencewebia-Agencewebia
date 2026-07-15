@@ -1,2 +1,14 @@
-# Agencewebia-Agencewebia
-Showcase of websites and AI-powered web solutions developed by Agence IA Web.
+# Agence IA Web
+
+AI-powered web agency creating modern websites, SEO solutions and custom applications.
+
+## Services
+
+- Website creation
+- SEO optimization
+- AI solutions
+- Web applications
+- Custom software
+
+🌐 Website:
+https://agence-ia-web.com
